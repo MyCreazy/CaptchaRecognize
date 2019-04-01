@@ -1,0 +1,2 @@
+# CaptchaRecognize
+使用tensorflow的CNN算识别验证码
